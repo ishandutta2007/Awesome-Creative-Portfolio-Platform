@@ -1,214 +1,112 @@
 # Awesome-Creative-Portfolio-Platform
-# Awesome-Creative-Portfolio-Platform
 
-## Top AI Coding Tools Ecosystem
 
+# Top Creative Portfolio Platforms
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
-*Focused on AI-Powered Editors, Completion, Chat, Agents & Developer Productivity Tooling*
+*Focused on Creative Portfolios, Design Showcases, Artist Galleries & Visual Work Platforms*
 
 **Last updated: October 2026**
 
+This repository tracks notable **SaaS platforms** and **open-source projects** for **Creative Portfolio Platforms**. These products help designers, artists, illustrators, photographers, 3D artists, and creative professionals showcase their work, build professional online presence, and connect with clients or communities.
 
+**Examples** include Adobe Behance, Dribbble, ArtStation, Carbonmade, Coroflot, Adobe Portfolio, DeviantArt, Cargo Collective, Format, and Fabrik (the category leaders).
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Coding Tools**. These products help developers write, understand, and refactor code faster through completion, chat, codebase awareness, and agentic workflows inside the editor or terminal.
-
-
-
-**Examples** include Cursor, GitHub Copilot, Tabnine, Codeium, Replit AI, Amazon Q Developer, Sourcegraph Cody, Windsurf, Continue, and Supermaven (the category leaders).
-
-
-
-**Open-source emphasis**: AI coding tools have a rich open ecosystem. **Continue**, **Aider**, **Cody** (open components), **Tabby**, Claude Code skills/resources, and related projects enable transparent, self-hostable coding assistance. This section is heavily expanded.
-
-
+**Open-source emphasis**: Creative portfolio tools have a growing open ecosystem. **microfolio**, **Gallery**, **Slatefolio**, **ArtistPass**, **awesome-portfolio-websites**, and related projects enable transparent, self-hostable, and fully customizable portfolio sites. This section is heavily expanded.
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-
-
 ## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
+- [SaaS/Hosted Platforms](#saas-hosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
-
-
 ## SaaS/Hosted Platforms
+- **[Adobe Behance](https://www.behance.net/)**  
+  Leading creative network for showcasing design, illustration, photography, and motion work with strong discovery and Adobe Creative Cloud integration.
 
-- **[Cursor](https://cursor.com/)**  
+- **[Dribbble](https://dribbble.com/)**  
+  Popular design community focused on high-quality visual work, designer hiring, and shot-based portfolios.
 
-  AI-first code editor with deep codebase indexing, chat, multi-file edits, and agentic features designed for large context windows.
+- **[ArtStation](https://www.artstation.com/)**  
+  Industry standard for digital artists, concept artists, 3D creators, and game/film professionals with marketplace and job features.
 
+- **[Carbonmade](https://carbonmade.com/)**  
+  Simple, clean portfolio builder designed specifically for creative professionals who want fast setup and elegant presentation.
 
+- **[Coroflot](https://www.coroflot.com/)**  
+  Long-standing creative portfolio and job board platform popular among industrial, product, and graphic designers.
 
-- **[GitHub Copilot](https://github.com/features/copilot)**  
+- **[Adobe Portfolio](https://portfolio.adobe.com/)**  
+  Free portfolio builder included with Adobe Creative Cloud, tightly integrated with Behance and Adobe apps.
 
-  Leading AI coding assistant integrated into editors, GitHub, and the CLI for completion, chat, and agent-style assistance.
+- **[DeviantArt](https://www.deviantart.com/)**  
+  Large creative community for artists of all skill levels with galleries, social features, and print/shop options.
 
+- **[Cargo Collective](https://cargo.site/)**  
+  Flexible, design-forward website and portfolio platform favored by art directors, studios, and experimental creatives.
 
+- **[Format](https://www.format.com/)**  
+  Professional portfolio and client gallery platform with strong photography and design templates plus e-commerce options.
 
-- **[Tabnine](https://www.tabnine.com/)**  
-
-  AI code completion and assistant platform with private model options and strong enterprise/privacy focus.
-
-
-
-- **[Codeium](https://codeium.com/)**  
-
-  Fast AI coding assistant offering completion, chat, and search across many IDEs, with free and team tiers.
-
-
-
-- **[Replit AI](https://replit.com/ai)**  
-
-  AI features inside the Replit cloud IDE for generation, chat, and full-app building in the browser.
-
-
-
-- **[Amazon Q Developer](https://aws.amazon.com/q/developer/)**  
-
-  AWS AI coding companion for generation, explanation, troubleshooting, and cloud-aware development help.
-
-
-
-- **[Sourcegraph Cody](https://sourcegraph.com/cody)**  
-
-  Codebase-aware AI assistant that leverages Sourcegraph’s code intelligence for precise answers and edits.
-
-
-
-- **[Windsurf (Codeium)](https://codeium.com/windsurf)**  
-
-  Agentic IDE experience focused on multi-step coding tasks and deep repository understanding.
-
-
-
-- **[Continue](https://www.continue.dev/)**  
-
-  Customizable AI coding assistant with open-source roots and commercial offerings for teams.
-
-
-
-- **[Supermaven](https://supermaven.com/)**  
-
-  High-speed AI coding assistant optimized for low-latency completions in professional workflows.
-
-
+- **[Fabrik](https://fabrik.io/)**  
+  Modern portfolio builder focused on creatives, agencies, and freelancers with clean templates and project showcase tools.
 
 ## Open-Source GitHub Projects
+- **[microfolio](https://github.com/aker-dev/microfolio)**  
+  Modern static portfolio generator built with SvelteKit 2 and Tailwind CSS 4. File-based CMS perfect for designers, artists, architects, and creatives. Supports grid, list, and interactive map views.
 
-- **[Claude Code skills & developer resources](https://github.com/search?q=claude+code+skills)**  
+- **[Gallery](https://github.com/andyzg/gallery)**  
+  Lightweight visual portfolio generator with zero dependencies. Ideal for photography and mockup portfolios — a free Squarespace-style alternative that runs on GitHub Pages.
 
-  Open developer resources, skills, and configurations for using Claude as a powerful AI coding agent in the terminal and editor workflows.
+- **[Slatefolio](https://github.com/jezzlucena/slatefolio)**  
+  Beautiful self-hosted full-stack portfolio platform for creative professionals. Built with Next.js, includes admin CMS, media management, multilingual support, and Docker deployment.
 
+- **[ArtistPass](https://github.com/eyeinthesky6/artistpass)**  
+  Open-source portfolio template specifically designed for actors, performers, and artists. Features showreels, headshots, casting cards, and Vercel-ready deployment.
 
+- **[awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)**  
+  Community-maintained collection of full-featured personal portfolio templates for researchers, developers, designers, and analysts. Easy to customize and deploy.
 
-- **[Continue](https://github.com/continuedev/continue)**  
+- **[Portfoliwoah](https://github.com/Oustro/portfoliwoah)**  
+  Collaborative open-source platform for sharing portfolios and discovering work from fellow creatives. Built with Next.js, TypeScript, and PostgreSQL.
 
-  Open-source coding assistant framework with IDE integrations, support for many models, and highly customizable behavior (check current maintenance status).
+- **[developerFolio](https://github.com/saadpasta/developerFolio)**  
+  Highly customizable React portfolio template popular among developers and designers. Clean configuration and modern design.
 
+- **[gitprofile](https://github.com/arifszn/gitprofile)**  
+  Automatic portfolio generator that builds a beautiful site directly from your GitHub profile and pinned repositories.
 
+- **[playground-macos](https://github.com/Pony-Z/playground-macos)**  
+  Creative macOS-desktop-themed portfolio built with React, Vite, and Tailwind. Memorable interactive experience for designers and developers.
 
-- **[Aider](https://github.com/Aider-AI/aider)**  
-
-  Open-source terminal pair-programming tool that maps your codebase, edits files, and commits changes with cloud or local LLMs.
-
-
-
-- **[Cody (Sourcegraph open components)](https://github.com/sourcegraph/cody)**  
-
-  Open-source AI coding assistant that can read and reason over entire codebases; self-hostable components available.
-
-
-
-- **[Tabby](https://github.com/TabbyML/tabby)**  
-
-  Open-source, self-hosted AI coding assistant focused on code completion and privacy-friendly local deployment.
-
-
-
-- **[Open WebUI](https://github.com/open-webui/open-webui)**  
-
-  Feature-rich self-hosted interface often used as a chat frontend for coding models and RAG over code.
-
-
-
-- **[LibreChat](https://github.com/danny-avila/LibreChat)**  
-
-  Open-source multi-provider chat UI that can be adapted for coding and codebase-aware assistance.
-
-
-
-- **[Ollama](https://github.com/ollama/ollama)**  
-
-  Local model runtime widely paired with open coding tools and editor extensions for private AI assistance.
-
-
-
-- **[Gemini CLI / open terminal agents](https://github.com/google-gemini/gemini-cli)**  
-
-  Open-source terminal AI agents that bring model power directly into the developer command line.
-
-
-
-- **[Documentation and self-hosting guides](https://docs.continue.dev/)**  
-
-  Community and project docs for deploying open AI coding tools with local or remote models.
-
-
+- **[vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio)**  
+  Portfolio designed to look and feel like Visual Studio Code. Great for developers and technical creatives who want a unique presentation.
 
 ### Additional Strong Open-Source Options
+- Static generators tailored for visual work: **microfolio**, **Gallery**.
+- Self-hosted full platforms with CMS: **Slatefolio**, **Portfoliwoah**.
+- Specialized creative templates: **ArtistPass** (actors/artists), **awesome-portfolio-websites**.
+- Quick GitHub-based portfolios: **gitprofile**, **developerFolio**.
+- Unique interactive experiences: **playground-macos**, **vscode-portfolio**, 3D/Three.js portfolio templates.
+- Accepting that commercial platforms (Behance, Dribbble, ArtStation, Adobe Portfolio, Format, Cargo) still lead in network effects, discovery, hiring visibility, and polished multi-user communities.
 
-- Customizable IDE assistance with **Continue** and similar frameworks.
-
-- Git-native pair programming via **Aider**.
-
-- Codebase-aware help through **Cody** open components.
-
-- Fully local completion with **Tabby** + Ollama.
-
-- Terminal-native agents (Claude Code skills, Gemini CLI, and community agents).
-
-- Accepting that commercial tools (Cursor, GitHub Copilot, Codeium, Tabnine, Amazon Q, Cody Cloud, Windsurf, Supermaven, Replit AI) still lead in polish, multi-repo scale, and seamless everyday developer experience.
-
-
-
-**Frameworks for building custom systems**: Choose an open assistant (**Continue**, **Cody**, **Tabby**, or **Aider**) → connect local or remote models → index the codebase for context → use in the editor or terminal. Suitable for teams that want control and transparency. Many developers still prefer commercial AI coding tools for convenience and frontier model quality.
-
-
+**Frameworks for building custom systems**: Choose an open generator (**microfolio**, **Gallery**, or **Slatefolio**) → customize the design and content structure → deploy to GitHub Pages, Vercel, Netlify, or your own server. Suitable for creatives who want full ownership, no platform fees, and complete design control. Many still use commercial platforms for discovery and community while maintaining a personal open-source portfolio as their primary site.
 
 ## How to Contribute
-
 1. Fork the repo.
-
 2. Add/edit entries in `README.md` (follow existing format).
-
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
 4. Submit PR with a short explanation.
-
-
 
 Star the repo if you find it useful!
 
-
-
 ## Disclaimer
-
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AI coding tools may send code or context to model providers. Review data policies and prefer self-hosted options when privacy or compliance requires it. This list is not security advice.
-
-
+- Portfolio platforms may have different terms regarding content ownership, AI training, and commercial use. Review each platform’s policies carefully. Self-hosted open-source options give you the most control. This list is not legal or security advice.
 
 ---
+**Made for designers, artists, photographers, 3D creators, and open-source advocates.**
 
-**Made for developers, engineering teams, and open-source advocates.**
-
-Let's keep AI coding tools powerful, transparent, and as open as practical.
+Let's keep creative portfolios powerful, beautiful, and as open as practical.
