@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Portfolio-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Portfolio-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Portfolio-Platform?style=flat-square&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Creative-Portfolio-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Creative-Portfolio-Platform?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -113,7 +113,7 @@ We welcome contributions from designers, creative engineers, and open-source cre
 2. **Add or refine an entry** in `README.md` following the exact table structure.
 3. **Verify criteria**:
    - For SaaS: Must include verified starter pricing, specific free tier/trial boundaries, and company valuation/revenue metrics.
-   - For Open-Source: Must include a live GitHub link, valid star badge, tech stack details, and clear creative/showcase utility.
+   - For Open-Source: Must include a live GitHub link, valid Stars_Badge, tech stack details, and clear creative/showcase utility.
 4. **Submit a pull request** with a concise description of why the tool deserves inclusion.
 
 ---
